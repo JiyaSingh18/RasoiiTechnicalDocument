@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Caveat:wght@400;700&family=Crimson+Text:wght@400;600&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Playfair Display', serif;
+  --font-handwritten: 'Caveat', cursive;
+  --font-story: 'Crimson Text', serif;
+  --font-sans: 'Inter', sans-serif;
+  
+  --color-vintageRose-50: #fff1f2;
+  --color-vintageRose-100: #ffe4e6;
+  --color-vintageRose-200: #fecdd3;
+  --color-vintageRose-300: #fda4af;
+  --color-vintageRose-400: #fb7185;
+  --color-vintageRose-500: #f43f5e;
+  --color-vintageRose-600: #e11d48;
+  
+  --color-terracotta-50: #fef5ee;
+  --color-terracotta-100: #fde8d7;
+  --color-terracotta-200: #fbcdae;
+  --color-terracotta-300: #f8ad7a;
+  --color-terracotta-400: #f58244;
+  --color-terracotta-500: #f2601f;
+  
+  --color-sageMint-50: #f0fdf4;
+  --color-sageMint-100: #dcfce7;
+  --color-sageMint-200: #bbf7d0;
+  --color-sageMint-300: #86efac;
+  --color-sageMint-400: #4ade80;
+  --color-sageMint-500: #22c55e;
+  --color-sageMint-600: #16a34a;
+  
+  --color-warmAmber-50: #fffbeb;
+  --color-warmAmber-100: #fef3c7;
+  --color-warmAmber-200: #fde68a;
+  --color-warmAmber-300: #fcd34d;
+  --color-warmAmber-400: #fbbf24;
+  --color-warmAmber-500: #f59e0b;
+  
+  --color-rasoiiCream: #faf8f3;
+  --color-parchment: #f5f1e8;
+  --color-agedPaper: #ede7d9;
+  --color-inkBlue: #1e293b;
+}
